@@ -114,6 +114,6 @@ public class VentanaPedidos extends JFrame {
                 "ID: " + p.getId() + "\n" +
                 "Tipo: " + p.getTipo() + "\n" +
                 "Composición / Descripción: " + p.getDescripcion() + "\n" +
-                "Total a Pagar: $" + p.getPrecio());
+                "Total a Pagar: $" + p.getPrecio());L
     }
 }
