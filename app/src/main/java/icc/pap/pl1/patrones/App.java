@@ -1,5 +1,6 @@
 package icc.pap.pl1.patrones;
 
+
 import javax.swing.*;
 
 public class App {
