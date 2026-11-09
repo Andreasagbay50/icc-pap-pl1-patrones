@@ -91,10 +91,7 @@ public class VentanaPedidos extends JFrame {
         mostrarPedido(null);
     }
 
-    // =====================================================
-    // Construcción de la interfaz
-    // =====================================================
-
+    
     private JPanel crearContenido() {
         JPanel raiz = new JPanel(new BorderLayout(0, 20));
         raiz.setBackground(FONDO);
